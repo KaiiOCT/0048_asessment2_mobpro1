@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">Asessment 2</string>
+    <string name="app_name">Jurnal Harian</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+    <string name="list_kosong">Belum ada jurnal harian</string>
+    <string name="tambah_jurnal">Tambah jurnal harian</string>
+    <string name="edit_jurnal">Edit jurnal harian</string>
+    <string name="invalid">Judul, tanggal, isi, mood tidak boleh kosong.</string>
+    <string name="hapus">Hapus jurnal harian</string>
+    <string name="pesan_hapus">Hapus jurnal harian ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="kembali">Kembali</string>
+    <string name="pilih_mood">Pilih mood terlebih dahulu</string>
+    <string name="simpan">Simpan</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="judul">Judul</string>
+    <string name="tanggal">tanggal</string>
+    <string name="isi">Isi Jurnal</string>
 </resources>
